@@ -1,3 +1,3 @@
 # Personal Portfolio Website
 
-- [The project is deployed using vercel here](https://personalportfolio-psi.vercel.app/)
+- [The project is deployed using vercel here](https://hriday-bhardwaj-portfolio.vercel.app/)
